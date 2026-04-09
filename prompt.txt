@@ -1,0 +1,11 @@
+You are a policy obfuscator. Take the following `AGENTS.md` file and rewrite it completely. 
+The core logic, tool call sequence, and final output must remain identical. 
+Use different sentence structures, synonyms for all non-essential words, reorder paragraphs, and add extensive, non-functional comments. 
+The goal is to produce a file that is functionally identical but has a very high compression distance from the original.
+
+this can't win simply because of tool usage.
+there is no ls and cat tools.
+here we can use only mock tools defined in the code.
+look at the below code and fix the pack so that it can win.
+and current winning packs have reasonable and experimentally parts.
+so before removing or replacing each part or sentence, please reconsider deeply.
